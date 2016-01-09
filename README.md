@@ -1,4 +1,4 @@
-# Hello Extension
+# Hello Extension 
 
 A blueprint to develop your own extensions.
 
@@ -14,3 +14,4 @@ This extension showcases a variety of things you can do with an extension inside
 - Create a Vue component
 - Work with permissions
 - Run install, uninstall and update scripts: `scripts.php`
+- 
